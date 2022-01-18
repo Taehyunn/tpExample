@@ -12,6 +12,9 @@
 - `touch .github/ISSUE_TEMPLATE.md` `touch .github/PULL_REQUEST_TEMPLATE.md` 명령어를 통해 2개의 파일을 생성
 - vi 명령어를 통해 각 기본적인 형식을 넣어주고 저장한다.
 - git add [파일명] 후 git commit 후 git push origin main 을 해주면 정상적으로 연결되고 업로드된다.
+
+**organization**
+> 팀 리더만 만들면 된다.
  
 
 ## ProJect 전반적인 운영에 대한 흐름과 관리들에 대해 정리
